@@ -9,6 +9,9 @@ function App() {
         <p>
           Modify <code>src/App.js</code> and save to reload.
         </p>
+        <p>
+          Use "npm run deploy" on github domain.
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
